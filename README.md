@@ -8,3 +8,6 @@ Documentation and release notes for the Eluvio Media Wallet
 - Roku:    https://github.com/eluv-io/elv-wallet-roku/issues
 - Xbox:    https://github.com/eluv-io/elv-wallet-web
 - Samsung: https://github.com/eluv-io/elv-wallet-web
+
+## Minimum Supported Version:
+- tvOS 18.0 
